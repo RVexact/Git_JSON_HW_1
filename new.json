@@ -1,0 +1,13 @@
+ {
+  "person":{   
+     "name":"Roman Vovk Zinovievich",
+     "age": 24
+    },
+  "pets":[
+    "Dina", 
+    "Oscar",
+    "Luna"
+    ],
+  "salary": 700
+}
+
