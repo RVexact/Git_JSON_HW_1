@@ -1,9 +1,20 @@
-"skills json":[           
-        "record",                                      
-        "massif",                            
-        "numeric",                               
-        "literals",                        
-        "line"
+"skills":[           
+        "testing",                                      
+        "IOS",                            
+        "Android",                               
+        "HTTP",                        
+        "JSON",
+        "XML",
+        "Postman",
+        "JS"
+        "Dev Tools"
+        "Linux"
+        "Git"
+        "SQL"
+        "Postgres"
+        "Jmeter"
+        "Scrum"
+        "Python"        
 ],
         
                  
